@@ -2,7 +2,7 @@
 
 ## Description
 
-Simple startup website Front End Development practice using latest technologies of HTML, CSS, and Bootstrap.
+Simple startup website for Front End Development practice using latest technologies of HTML, CSS, and Bootstrap.
 
 ## Screenshots
 <img width="1383" alt="Screenshot 2024-03-02 at 10 15 34 PM" src="https://github.com/ZhenyaChan/TinCat/assets/75372029/5b9c489b-dfd8-45bf-bc5f-b4e1e88e9825">
